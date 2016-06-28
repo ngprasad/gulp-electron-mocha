@@ -1,11 +1,17 @@
 {
-  "name": "gulp-electron-mocha",
+  "name": "@sbg/gulp-electron-mocha",
   "version": "1.2.1",
   "description": "Gulp plugin to run Mocha tests in Electron",
   "author": "nodaguti",
   "license": "MIT",
   "main": "./lib/index.js",
-  "repository": "nodaguti/gulp-electron-mocha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngprasad/gulp-electron-mocha"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.intuit.net"
+  },
   "scripts": {
     "build": "npm-run-all clean babel",
     "babel": "babel src --out-dir lib --source-maps",
