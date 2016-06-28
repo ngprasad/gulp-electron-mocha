@@ -1,6 +1,5 @@
 # gulp-electron-mocha
-> This is a fork of the original gulp-electron-mocha module: https://github.com/nodaguti/gulp-electron-mocha
-> Run client-side Mocha tests in Electron
+> Run client-side Mocha tests in Electron (This is a fork of the original gulp-electron-mocha module: https://github.com/nodaguti/gulp-electron-mocha)
 
 [![Build Status](https://travis-ci.org/nodaguti/gulp-electron-mocha.svg?branch=master)](https://travis-ci.org/nodaguti/gulp-electron-mocha)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/nodaguti/gulp-electron-mocha?svg=true)](https://ci.appveyor.com/project/nodaguti/gulp-electron-mocha)
